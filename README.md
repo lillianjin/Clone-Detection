@@ -1,2 +1,2 @@
 # Clone-Detection
-Implementation of Clone Detection in Haskell
+Review on the implementation of Clone Detection in Haskell.
